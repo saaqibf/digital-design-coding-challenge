@@ -29,7 +29,7 @@ Two sessions of 2.5 hours (challenges 0-3, then 4-7). Points do the judging: no 
 
 The same seven-challenge structure re-themes to any career where a professional makes one decision with data. Already built and tested in this repo:
 
-`MusicAnalyst` (which artist gets the promo budget) · `Codebreaker` (a cybersecurity mission with a completely different mechanic: crack the Cipher Ring's messages) · and 12 more in `MoreCareers/`: Wildlife Biologist, Epidemiologist, Meteorologist, Mars Mission Planner, Game Studio Analyst, Urban Planner, Marine Biologist, Energy Engineer, Food Scientist, Astronomer, EMS Planner, Agriculture Scientist.
+`MusicAnalyst` (which artist gets the promo budget) · `Codebreaker` (a cybersecurity mission with a completely different mechanic: crack the Cipher Ring's messages) · and `MoreCareers/WildlifeBiologist` (which habitat gets protection funding), the first of a 12-career expansion pack: Epidemiologist, Meteorologist, Mars Mission Planner, Game Studio Analyst, Urban Planner, Marine Biologist, Energy Engineer, Food Scientist, Astronomer, EMS Planner, and Agriculture Scientist, all built and tested, shipping with the MindFuel resource handoff and added here over time.
 
 See `CAREER_TRACK_CATALOG.md` for the full menu and `BUILD_GUIDE_new_tracks.md` to build a new career in half a day.
 
