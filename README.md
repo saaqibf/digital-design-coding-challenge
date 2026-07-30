@@ -8,7 +8,9 @@ Students step into a real STEM career, work through emoji-levelled challenges (e
 
 You've been hired by a basketball team. The GM has budget for exactly one player. By the end of two sessions, you'll tell them who to sign, and you'll prove it with data.
 
-**Run it on Callysto Hub (full interactive experience, Google or Microsoft school login):**
+**Try it right now, no login needed:** https://saaqibf.github.io/challenges/lab/index.html?path=SportsAnalyst/challenge-0.ipynb
+
+**Full interactive experience on Callysto Hub (free school login):**
 
 > https://hub.callysto.ca/jupyter/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fsaaqibf%2Fdigital-design-coding-challenge&branch=main&subPath=SportsAnalyst/challenge-0.ipynb&depth=1
 
@@ -30,14 +32,14 @@ Two sessions of 2.5 hours (challenges 0-3, then 4-7). Points do the judging: no 
 
 ## Challenge Notebooks
 
-Click a track name to open it on Callysto Hub, ready to run. Difficulty is shown beside each track.
+Two ways to open every track. **Try instantly** needs no account at all: click and it loads. **Full experience** uses Callysto Hub (free Google or Microsoft school login) where the guided question-and-answer flow works end to end.
 
-| Notebook | Challenge Level |
-|---|---|
-| [Sports Analyst](https://hub.callysto.ca/jupyter/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fsaaqibf%2Fdigital-design-coding-challenge&branch=main&subPath=SportsAnalyst/challenge-0.ipynb&depth=1) | 🏀 |
-| [Music Analyst](https://hub.callysto.ca/jupyter/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fsaaqibf%2Fdigital-design-coding-challenge&branch=main&subPath=MusicAnalyst/challenge-0.ipynb&depth=1) | 🎵🎵 |
-| [Wildlife Biologist](https://hub.callysto.ca/jupyter/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fsaaqibf%2Fdigital-design-coding-challenge&branch=main&subPath=MoreCareers%2FWildlifeBiologist/challenge-0.ipynb&depth=1) | 🦉🦉 |
-| [Codebreaker](https://hub.callysto.ca/jupyter/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fsaaqibf%2Fdigital-design-coding-challenge&branch=main&subPath=Codebreaker/challenge-0.ipynb&depth=1) | 🔐🔐🔐 |
+| Notebook | Challenge Level | Try instantly (no login) | Full experience |
+|---|---|---|---|
+| Sports Analyst | 🏀 | [open](https://saaqibf.github.io/challenges/lab/index.html?path=SportsAnalyst/challenge-0.ipynb) | [open](https://hub.callysto.ca/jupyter/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fsaaqibf%2Fdigital-design-coding-challenge&branch=main&subPath=SportsAnalyst/challenge-0.ipynb&depth=1) |
+| Music Analyst | 🎵🎵 | [open](https://saaqibf.github.io/challenges/lab/index.html?path=MusicAnalyst/challenge-0.ipynb) | [open](https://hub.callysto.ca/jupyter/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fsaaqibf%2Fdigital-design-coding-challenge&branch=main&subPath=MusicAnalyst/challenge-0.ipynb&depth=1) |
+| Wildlife Biologist | 🦉🦉 | [open](https://saaqibf.github.io/challenges/lab/index.html?path=MoreCareers%2FWildlifeBiologist/challenge-0.ipynb) | [open](https://hub.callysto.ca/jupyter/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fsaaqibf%2Fdigital-design-coding-challenge&branch=main&subPath=MoreCareers%2FWildlifeBiologist/challenge-0.ipynb&depth=1) |
+| Codebreaker | 🔐🔐🔐 | [open](https://saaqibf.github.io/challenges/lab/index.html?path=Codebreaker/challenge-0.ipynb) | [open](https://hub.callysto.ca/jupyter/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fsaaqibf%2Fdigital-design-coding-challenge&branch=main&subPath=Codebreaker/challenge-0.ipynb&depth=1) |
 
 Sports Analyst is the showcase: start there. Music and Wildlife are the same engine with less hand-holding. Codebreaker is a different mechanic entirely (cipher cracking) and the trickiest of the four.
 
