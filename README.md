@@ -28,11 +28,20 @@ Every track uses its own emoji as the level meter: 🔐 in Codebreaker, 🎵 in 
 
 Two sessions of 2.5 hours (challenges 0-3, then 4-7). Points do the judging: no panel needed. Full run sheet with word-for-word facilitator scripts in `Facilitator_Guide_Coding_Challenge.pdf`.
 
-## 14 more careers, same engine
+## Challenge Notebooks
 
-The same seven-challenge structure re-themes to any career where a professional makes one decision with data. Already built and tested in this repo:
+Click a track name to open it on Callysto Hub, ready to run. Difficulty is shown beside each track.
 
-`MusicAnalyst` (which artist gets the promo budget) · `Codebreaker` (a cybersecurity mission with a completely different mechanic: crack the Cipher Ring's messages) · and `MoreCareers/WildlifeBiologist` (which habitat gets protection funding), the first of a 12-career expansion pack: Epidemiologist, Meteorologist, Mars Mission Planner, Game Studio Analyst, Urban Planner, Marine Biologist, Energy Engineer, Food Scientist, Astronomer, EMS Planner, and Agriculture Scientist, all built and tested, shipping with the MindFuel resource handoff and added here over time.
+| Notebook | Challenge Level |
+|---|---|
+| [Sports Analyst](https://hub.callysto.ca/jupyter/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fsaaqibf%2Fdigital-design-coding-challenge&branch=main&subPath=SportsAnalyst/challenge-0.ipynb&depth=1) | 🏀 |
+| [Music Analyst](https://hub.callysto.ca/jupyter/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fsaaqibf%2Fdigital-design-coding-challenge&branch=main&subPath=MusicAnalyst/challenge-0.ipynb&depth=1) | 🎵🎵 |
+| [Wildlife Biologist](https://hub.callysto.ca/jupyter/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fsaaqibf%2Fdigital-design-coding-challenge&branch=main&subPath=MoreCareers%2FWildlifeBiologist/challenge-0.ipynb&depth=1) | 🦉🦉 |
+| [Codebreaker](https://hub.callysto.ca/jupyter/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fsaaqibf%2Fdigital-design-coding-challenge&branch=main&subPath=Codebreaker/challenge-0.ipynb&depth=1) | 🔐🔐🔐 |
+
+Sports Analyst is the showcase: start there. Music and Wildlife are the same engine with less hand-holding. Codebreaker is a different mechanic entirely (cipher cracking) and the trickiest of the four.
+
+**Coming soon, built and tested, shipping with the MindFuel resource handoff:** Epidemiologist, Meteorologist, Mars Mission Planner, Game Studio Analyst, Urban Planner, Marine Biologist, Energy Engineer, Food Scientist, Astronomer, EMS Planner, and Agriculture Scientist.
 
 See `CAREER_TRACK_CATALOG.md` for the full menu and `BUILD_GUIDE_new_tracks.md` to build a new career in half a day.
 
