@@ -2,7 +2,7 @@
 
 A first hackathon for students in grades 6 to 12 with **zero coding experience**. Built for MindFuel Foundation, summer 2026.
 
-Students step into a real STEM career, work through star-levelled challenges in their browser, and finish by pitching a data-backed decision on demo day. No installs, no syntax walls, runs on any Chromebook. Answers are checked by meaning, so nobody fails on a spelling mistake.
+Students step into a real STEM career, work through emoji-levelled challenges (each career uses its own: 🏀 for sports, 🔐 for cybersecurity, 🎵 for music) in their browser, and finish by pitching a data-backed decision on demo day. No installs, no syntax walls, runs on any Chromebook. Answers are checked by meaning, so nobody fails on a spelling mistake.
 
 ## 🏀 The showcase track: Sports Analyst
 
@@ -16,12 +16,15 @@ That link pattern is the same one Callysto uses for its own hackathons: click it
 
 ## How a session works
 
-| Stars | Challenges | What students do |
+| Level | Challenges | What students do |
 |---|---|---|
-| ⭐ | 0-2 | Meet the data, read it, rank it. Run-the-cell and multiple choice. |
-| ⭐⭐ | 3-4 | Filter under a budget, build the value chart. First code edits. |
-| ⭐⭐⭐ | 5-6 | Open investigation, then the demo-day pitch. |
-| ⭐⭐⭐⭐ | 7 | Create your own world: add yourself to the data, design a challenge for a classmate. Peer judged. |
+| warm-up | 0 | Meet the data, make a first chart. Just run the cells. |
+| 🏀 | 1-2 | Read the table, rank the league. Multiple choice and one-word changes. |
+| 🏀🏀 | 3-4 | Filter under a budget, build the value chart. First code edits. |
+| 🏀🏀🏀 | 5-6 | Open investigation, then the demo-day pitch. |
+| 🏀🏀🏀🏀 | 7 | Create your own world: add yourself to the data, design a challenge for a classmate. Peer judged. |
+
+Every track uses its own emoji as the level meter: 🔐 in Codebreaker, 🎵 in Music Analyst, 🦉 in Wildlife Biologist.
 
 Two sessions of 2.5 hours (challenges 0-3, then 4-7). Points do the judging: no panel needed. Full run sheet with word-for-word facilitator scripts in `Facilitator_Guide_Coding_Challenge.pdf`.
 
