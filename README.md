@@ -45,6 +45,8 @@ Sports Analyst is the showcase: start there. Music and Wildlife are the same eng
 
 See `CAREER_TRACK_CATALOG.md` for the full menu and `BUILD_GUIDE_new_tracks.md` to build a new career in half a day.
 
+**MindFuel Future Aspects:** see `MindFuel_Future_Aspects.md` for where this goes next: true team hackathons with open problem statements and multi-day time-boxes, tracks for older and experienced coders, a season-long points model, and the path to MindFuel's own challenge site.
+
 ## Credits and license
 
 Challenge structure adapted from the [Callysto](https://www.callysto.ca) hackathon mini-challenge templates ([github.com/callysto/hackathon](https://github.com/callysto/hackathon), Creative Commons Attribution). All datasets, stories, characters, and the meaning-based answer engine are original work by MindFuel. This repository is likewise shared under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/): reuse freely, credit MindFuel Foundation.
